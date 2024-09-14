@@ -1,0 +1,7 @@
+2024-09-14 11:20:11,480 - cl200a controller log - cl200a.py - __init__ - line: 47: ERROR - Error: Serial port not found
+2024-09-14 11:22:30,515 - cl200a controller log - cl200a.py - __init__ - line: 47: ERROR - Error: Serial port not found
+2024-09-14 11:24:22,636 - cl200a controller log - cl200a.py - _connection - line: 73: INFO - Setting CL-200A to PC connection mode
+2024-09-14 11:24:42,339 - cl200a controller log - cl200a.py - _connection - line: 73: INFO - Setting CL-200A to PC connection mode
+2024-09-14 11:25:55,127 - cl200a controller log - cl200a.py - _connection - line: 73: INFO - Setting CL-200A to PC connection mode
+2024-09-14 11:26:02,794 - cl200a controller log - cl200a.py - _perform_measurement - line: 168: DEBUG - Got raw data: "0|~7=z02
+2024-09-14 11:26:37,825 - cl200a controller log - cl200a.py - _connection - line: 73: INFO - Setting CL-200A to PC connection mode
